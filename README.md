@@ -1,2 +1,2 @@
-# GVR_cv1_freza
+# CV1
 Created with CodeSandbox
